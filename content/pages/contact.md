@@ -6,7 +6,7 @@ featuredImage: 'https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/'
 subtitle: We’d love to hear from you!
 address: 'Omaha, NE'
 phone: 555-555-5555
-email: joyfullymade19@gmail.com
+email: joyfullymadecrafts19@gmail.com
 locations:
   - lat: '-27.9654732'
     lng: '153.2432449'
